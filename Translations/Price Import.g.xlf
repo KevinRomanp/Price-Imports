@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Price Import">
+    <body>
+      <group id="body">
+        <trans-unit id="PageExtension 4165496608 - Action 3911911620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4165496608">
+          <source>Importar precio combustible</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Purchase Price List - Action ImportPrice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4165496608 - Action 3911911620 - Method 1377591017 - NamedType 2409089938" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 4165496608">
+          <source>Please check if there are any empty values on the fields: Item No, Unit Measure Code or Starting Date.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Purchase Price List - Action ImportPrice - Method OnAction - NamedType UploadErr</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4165496608 - Action 3911911620 - Method 1377591017 - NamedType 3185257792" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 4165496608">
+          <source>Por favor revise la ortografia en la columna "Tipo de Asignar a" en la línea %1 del Excel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Purchase Price List - Action ImportPrice - Method OnAction - NamedType ErrorOrtografia</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4165496608 - Action 3911911620 - Method 1377591017 - NamedType 2618255067" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 4165496608">
+          <source>La fecha de vigencia no puede ser antes que %1 ni estar vacía.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Purchase Price List - Action ImportPrice - Method OnAction - NamedType ErrorFecha</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4165496608 - Action 3911911620 - Method 1377591017 - NamedType 162993287" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 4165496608">
+          <source>El valor de la columna "%1" no puede estar en blanco en línea %2 del Excel.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Purchase Price List - Action ImportPrice - Method OnAction - NamedType ErrorFaltaParametro</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3258015719 - Action 3911911620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2214009041">
+          <source>Importar precio combustible</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Price  - Action ImportPrice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3258015719 - Action 3911911620 - Method 1377591017 - NamedType 2409089938" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3258015719">
+          <source>Please check if there are any empty values on the fields: Item No, Unit Measure Code or Starting Date.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Price  - Action ImportPrice - Method OnAction - NamedType UploadErr</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3258015719 - Action 3911911620 - Method 1377591017 - NamedType 3185257792" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3258015719">
+          <source>Por favor revise la ortografia en la columna "Tipo de Asignar a" en la línea %1 del Excel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Price  - Action ImportPrice - Method OnAction - NamedType ErrorOrtografia</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3258015719 - Action 3911911620 - Method 1377591017 - NamedType 2618255067" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3258015719">
+          <source>La fecha de vigencia no puede ser antes que %1. Revise la línea %2.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Price  - Action ImportPrice - Method OnAction - NamedType ErrorFecha</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3258015719 - Action 3911911620 - Method 1377591017 - NamedType 162993287" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3258015719">
+          <source>El valor de la columna "%1" no puede estar en blanco en línea %2 del Excel.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Price  - Action ImportPrice - Method OnAction - NamedType ErrorFaltaParametro</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,40 @@
+{
+  "id": "d5730eb2-815c-4714-a450-2df98f56a916",
+  "name": "Price Import",
+  "publisher": "Kevin Roman",
+  "version": "1.0.0.2",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "LogoOriginal.png",
+  "dependencies": [
+    {
+      "id": "7bc0f77f-2e0c-4f1c-b4a0-cc6b2e14d3f4",
+      "name": "Fuel Discounts",
+      "publisher": "Kevin Roman",
+      "version": "0.0.0.4"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50500,
+      "to": 50550
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
